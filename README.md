@@ -2,8 +2,8 @@
 
 ## Sources
 - [AbuseIpDB](https://www.abuseipdb.com/)
-- [pwlgrzs](https://raw.githubusercontent.com/pwlgrzs/Mikrotik-Blacklist/master/blacklist.rsc)
-- [Firehol Level 2](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset)
+- [pwlgrzs](https://github.com/pwlgrzs/Mikrotik-Blacklist)
+- [Firehol Level 2](https://github.com/firehol/blocklist-ipsets)
 
 ## Updated
 - Every 24 h with crontab job
